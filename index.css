@@ -1,0 +1,78 @@
+
+body{font-family: sans-serif; margin:0px;}
+h1{font-size: 50px;}
+h2{font-size: 40px;}
+.orange-highlight{color:orange;}
+.color{color:orangered;font-size:50px;font-weight: bold;}
+.color:hover{color:orange}
+
+
+.halfw{width: 40%;
+margin-left: 5%;
+padding-left: 2%;
+float:left;
+
+
+}
+
+.halfw img{width:100%;margin-top: 5px;}
+
+.paragraph{font-weight: bolder;}
+.paragraph:hover{color:pink;}
+
+
+
+
+
+a{background: royalblue;color:red;height:50px;width:300px;padding:10px 20px;margin:5px;border:1px solid floralwhite;
+border-radius: 5px;text-decoration: none;font-weight: 700;
+
+}
+a:hover{background: fuchsia;color:wheat}
+
+section{height:500px}
+
+
+.top{background-image: url("images/top-banner.png");
+background-repeat: no-repeat;}
+
+section{height:500px;padding-top: 150px;}
+
+
+.halfw2{width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left;
+    }
+
+    .img2{width:80%;margin-top: 5px;}
+    .last-para{color:burlywood;}
+    .last-para:hover{color:gold;}
+
+    .big-dream{background-image: url("images/dream-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
+        padding-left: 5px;padding-bottom: 5px;}
+
+
+.single-exp{box-shadow: 10px 10px 40px gray;height:60%;border-radius: 5px;padding-top: 20px;}
+
+
+
+.exp-area{background-image: url(images/exp-bg.png);background-repeat: no-repeat;background-position: left;}
+
+
+#full-stack{border-left: 7px solid;red;
+    border-image:linear-gradient(100deg ,rgb(0, 255, 34),rgb(255, 0, 170));
+    border-image-slice: 1;}
+
+
+    footer p{ text-align: center;font-size: 14px;color:darkolivegreen}
+    
+
+
+
+    
+
+
+
